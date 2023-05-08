@@ -1,0 +1,48 @@
+
+.font-os{
+    font-family:'Open Sans', sans-serif;;
+}
+.font-oswald{
+    font-family: 'Oswald', sans-serif;
+}
+
+.text-blue{
+color: #003777;
+}
+.bg-blue{
+background-color: #003777;
+}
+.fw-semibold{
+    font-weight: 600;
+}
+
+.gradient-btn{
+    background: rgb(0,193,194);
+    background: linear-gradient(255deg, rgba(0,193,194,1) 0%, rgba(3,223,149,1) 100%);
+    font-size: 14px;
+}
+.border-radius-xl{
+    border-radius: 25px;
+}
+
+/* banner */
+.banner-heading{
+    font-size: 87px;
+    letter-spacing: -3px;
+}
+.banner-btn{
+    font-size: 14px;
+}
+
+/* our-goal */
+.our-goal{
+    margin: 150px 0;
+}
+.goal-header{
+    font-size: 56px;
+}
+
+/* Our Services */
+.our-service{
+    margin: 150px 0;
+}
